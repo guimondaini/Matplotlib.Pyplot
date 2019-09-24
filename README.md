@@ -1,5 +1,7 @@
 # Curso da biblioteca Matplotlib.Pyplot
 
+![alt text](topo.png "image title")
+
 Notas :
 --
 
