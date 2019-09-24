@@ -1,7 +1,8 @@
 # Crescimento da População Brasileira 1980-2016
-#DataSus
+
 import matplotlib.pyplot as plt
 
+#Abrir arquivo DataSus
 dados = open("populacao-brasileira.csv").readlines()
 
 x = []
